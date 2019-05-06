@@ -1,7 +1,7 @@
 # dissertation-document
 The official repository for my PhD dissertation
 
-![GoT Image](https://media.giphy.com/media/JxlrNZzprrRhm/giphy.gif)
+![](https://media.giphy.com/media/7SKOwf1nD6j6XhfLMG/giphy.gif)
 
 ---
 
