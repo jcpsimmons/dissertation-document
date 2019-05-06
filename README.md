@@ -1,6 +1,8 @@
 # dissertation-document
 The official repository for my PhD dissertation
 
+![GoT Image](https://media.giphy.com/media/JxlrNZzprrRhm/giphy.gif)
+
 ---
 
 Hi all - I decided to make public my dissertation documents so you can see how they are revised over time. I plan on releasing an unedited, unabridged version as a book at some point. 
