@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CompileSettings>
+    <ProjectSettings>
+        <Content Scope="Included">
+            <Filter State="Off" Exclude="No" Type="Label">
+                <CollectionID>8ABF8609-7AB3-4CF9-A215-3280F72E0450</CollectionID>
+                <Label>-1</Label>
+                <Status>-1</Status>
+            </Filter>
+        </Content>
+        <Options>
+            <RemoveComments>Yes</RemoveComments>
+            <RemoveAnnotations>Yes</RemoveAnnotations>
+            <ResampleImages DPI="72">No</ResampleImages>
+            <ConvertTablesAndListToMMD>Yes</ConvertTablesAndListToMMD>
+            <PDF>
+                <Cover Source="FrontMatter" Bleed="9.0" BleedUnits="pt"/>
+                <Compression Enabled="No">
+                    <ImageResolutionCompressionType>None</ImageResolutionCompressionType>
+                    <ImageResolution>300</ImageResolution>
+                </Compression>
+            </PDF>
+            <Scriptwriting>
+                <IncludeTitles>Yes</IncludeTitles>
+                <IncludeSynopses>Yes</IncludeSynopses>
+                <CommentsAsScriptNotes>Yes</CommentsAsScriptNotes>
+            </Scriptwriting>
+            <Ebook>
+                <StartAfterFrontMatter>Yes</StartAfterFrontMatter>
+                <Cover>
+                    <ImageDocument Source="FrontMatter"/>
+                    <Title>Cover</Title>
+                    <SVG Width="600" Height="800"><![CDATA[]]></SVG>
+                </Cover>
+                <TOC PandocDepth="3">
+                    <HTML Generate="Yes">
+                        <Title>Contents</Title>
+                    </HTML>
+                </TOC>
+            </Ebook>
+        </Options>
+        <MetaData>
+            <ProjectTitle>Dissertation-Simmons</ProjectTitle>
+            <ProjectAbbreviatedTitle>Dissertation-Simmons</ProjectAbbreviatedTitle>
+            <Authors>
+                <Author FileAs="Simmons, Josh" Role="aut">Josh Simmons</Author>
+            </Authors>
+            <Surname>Simmons</Surname>
+            <Forename>Josh</Forename>
+            <EbookLanguage>en</EbookLanguage>
+            <FountainTitlePageMetaData>
+                <Value Key="Title"><![CDATA[<$projecttitle>]]></Value>
+                <Value Key="Author"><![CDATA[<$author>]]></Value>
+            </FountainTitlePageMetaData>
+            <MMDMetaData>
+                <Value Key="Title"><![CDATA[<$projecttitle>]]></Value>
+                <Value Key="Author"><![CDATA[<$author>]]></Value>
+            </MMDMetaData>
+        </MetaData>
+    </ProjectSettings>
+    <CurrentFileType>pdf</CurrentFileType>
+    <FormatSettings>
+        <Format ID="chicago-essay">
+            <SectionLayouts>
+                <Type ID="849BE015-6E5D-4E90-BA84-CD5DB3EB73E2">TEXT-SECTION</Type>
+                <Type ID="974D3900-18C4-47BB-8CF6-46741B7BE19D">TEXT-SECTION</Type>
+                <Type ID="58EA2AA5-3387-4754-9C8C-B2B48B0F1EB9">EF1BCBAB-4E4C-4F99-9622-536872FEBADA</Type>
+                <Type ID="43C4F3FE-353D-4F21-AC2D-93D72C287E24">FF5E2338-6E88-4171-84C0-6094D12A7968</Type>
+                <Type ID="9158B90A-9BDA-4BAD-9248-D4BDFE413885">BE66975A-A28B-4DDD-91D4-12BD41E2A805</Type>
+            </SectionLayouts>
+        </Format>
+    </FormatSettings>
+    <LastUsedFormats>
+        <Print>chicago-essay</Print>
+        <pdf>chicago-essay</pdf>
+        <doc>chicago-essay</doc>
+    </LastUsedFormats>
+</CompileSettings>
