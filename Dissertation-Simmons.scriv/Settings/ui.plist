@@ -7,7 +7,7 @@
 	<key>CommentsUseTextScale</key>
 	<true/>
 	<key>CompileFolder</key>
-	<string>/Users/simsies/Desktop</string>
+	<string>/Users/simsies/Documents/GitHub/dissertation-document</string>
 	<key>NotesScaleFactor</key>
 	<real>1</real>
 	<key>SCRSelectedCompileOptionsInfoSaveName</key>
@@ -138,7 +138,7 @@
 		<real>596</real>
 	</dict>
 	<key>mainDocumentEditor.scrollRect</key>
-	<string>{{0, 0}, {612, 716.92473118286841}}</string>
+	<string>{{0, 0}, {612, 716.92473118278349}}</string>
 	<key>mainDocumentEditor.selectedRanges</key>
 	<string>{0, 0}</string>
 	<key>mainDocumentEditor.textEditorState</key>
@@ -147,7 +147,7 @@
 		<real>1.75</real>
 	</dict>
 	<key>mainWindowFrame</key>
-	<string>777 32 1778 1381 0 0 2560 1417 </string>
+	<string>777 36 1778 1381 0 0 2560 1417 </string>
 	<key>previousDocumentTargetType</key>
 	<integer>0</integer>
 	<key>searchResultsTable</key>
