@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="142E2BBD-2293-424F-8FB7-69DF0DE7306E" Version="2.0" Creator="SCRMAC-3.1.2-10882" Device="Joshs-iMac" Author="Josh Simmons" Modified="2019-05-08 10:36:58 -0700" ModID="922A6F98-861C-46F9-9D22-2B000AE8CD09">
+<ScrivenerProject Identifier="142E2BBD-2293-424F-8FB7-69DF0DE7306E" Version="2.0" Creator="SCRMAC-3.1.2-10882" Device="Joshs-iMac" Author="Josh Simmons" Modified="2019-05-10 08:19:45 -0700" ModID="D3912577-241D-47CC-8795-8E3C1E0B95E6">
     <Binder>
         <BinderItem UUID="5E4E631C-ECC6-4F62-999D-22543F6F8B43" Type="DraftFolder" Created="2019-02-25 15:20:58 -0800" Modified="2019-02-25 17:33:28 -0800">
             <Title>Dissertation Document</Title>
@@ -525,42 +525,42 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem UUID="84B0060B-991A-4302-BEE4-99EB635F2818" Type="Text" Created="2019-04-08 12:54:20 -0700" Modified="2019-04-18 13:51:30 -0700">
+                                <BinderItem UUID="84B0060B-991A-4302-BEE4-99EB635F2818" Type="Text" Created="2019-04-08 12:54:20 -0700" Modified="2019-05-10 07:54:08 -0700">
                                     <Title>Findings</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>648,0</TextSelection>
+                                        <TextSelection>272,0</TextSelection>
                                     </TextSettings>
                                     <Children>
-                                        <BinderItem UUID="EFC57575-7A3B-42C9-82FC-9B502B6614E8" Type="Text" Created="2019-04-08 15:06:25 -0700" Modified="2019-04-22 08:24:32 -0700">
+                                        <BinderItem UUID="EFC57575-7A3B-42C9-82FC-9B502B6614E8" Type="Text" Created="2019-04-08 15:06:25 -0700" Modified="2019-05-10 08:06:47 -0700">
                                             <Title>Audiovisual Connections</Title>
                                             <MetaData>
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>1899,0</TextSelection>
+                                                <TextSelection>1480,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
-                                        <BinderItem UUID="30FB67F9-4DB9-49D2-89D3-D66CFF407766" Type="Text" Created="2019-04-08 15:06:28 -0700" Modified="2019-04-23 09:49:44 -0700">
-                                            <Title>Monomyth</Title>
+                                        <BinderItem UUID="30FB67F9-4DB9-49D2-89D3-D66CFF407766" Type="Text" Created="2019-04-08 15:06:28 -0700" Modified="2019-05-10 08:18:19 -0700">
+                                            <Title>Medium is the Message, Again</Title>
                                             <MetaData>
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>4561,0</TextSelection>
+                                                <TextSelection>3284,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                     </Children>
                                 </BinderItem>
-                                <BinderItem UUID="9DE3B5D0-0721-42DB-A304-CE02B965F495" Type="Text" Created="2019-04-08 15:07:21 -0700" Modified="2019-04-23 10:05:29 -0700">
-                                    <Title>Future Directions</Title>
+                                <BinderItem UUID="9DE3B5D0-0721-42DB-A304-CE02B965F495" Type="Text" Created="2019-04-08 15:07:21 -0700" Modified="2019-05-10 08:19:08 -0700">
+                                    <Title>Towards Postmodality</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>1942,0</TextSelection>
+                                        <TextSelection>951,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -893,11 +893,11 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-07-07 04:25:49 -0700" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="-36" Characters="-192" Date="2019-05-08 10:18:48 -0700"/>
+        <PreviousSession Words="-516" Characters="-3066" Date="2019-05-10 07:50:10 -0700"/>
     </ProjectTargets>
-    <RecentWritingHistory Date="2019-05-08 00:00:00 -0700">
-        <DraftWordCount>-36</DraftWordCount>
-        <DraftCharCount>-192</DraftCharCount>
+    <RecentWritingHistory Date="2019-05-10 00:00:00 -0700">
+        <DraftWordCount>-516</DraftWordCount>
+        <DraftCharCount>-3066</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
