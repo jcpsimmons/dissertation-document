@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="142E2BBD-2293-424F-8FB7-69DF0DE7306E" Version="2.0" Creator="SCRMAC-3.1.2-10882" Device="Joshs-iMac" Author="Josh Simmons" Modified="2019-05-20 10:39:34 -0700" ModID="78390E69-33DA-489A-8845-30B64AEFFB59">
+<ScrivenerProject Identifier="142E2BBD-2293-424F-8FB7-69DF0DE7306E" Version="2.0" Creator="SCRMAC-3.1.2-10882" Device="Joshs-iMac" Author="Josh Simmons" Modified="2019-05-20 10:41:48 -0700" ModID="9EA53762-BCC7-41A6-823B-4833F1358F05">
     <Binder>
         <BinderItem UUID="5E4E631C-ECC6-4F62-999D-22543F6F8B43" Type="DraftFolder" Created="2019-02-25 15:20:58 -0800" Modified="2019-02-25 17:33:28 -0800">
             <Title>Dissertation Document</Title>
@@ -23,13 +23,13 @@
                         <TextSelection>18,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="3DDF9AE7-DF5E-43F7-B556-2BDB31647359" Type="Text" Created="2019-02-25 17:12:05 -0800" Modified="2019-05-20 10:31:25 -0700">
+                <BinderItem UUID="3DDF9AE7-DF5E-43F7-B556-2BDB31647359" Type="Text" Created="2019-02-25 17:12:05 -0800" Modified="2019-05-20 10:41:33 -0700">
                     <Title>Table of Contents</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>481,0</TextSelection>
+                        <TextSelection>563,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="FBEC6A8F-B784-410C-9AB4-9E37842A9BC0" Type="Text" Created="2019-02-25 17:12:55 -0800" Modified="2019-02-25 17:12:59 -0800">
@@ -893,11 +893,11 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-07-07 04:25:49 -0700" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="-699" Characters="-4457" Date="2019-05-20 10:33:03 -0700"/>
+        <PreviousSession Words="-686" Characters="-4375" Date="2019-05-20 10:40:55 -0700"/>
     </ProjectTargets>
     <RecentWritingHistory Date="2019-05-20 00:00:00 -0700">
-        <DraftWordCount>-699</DraftWordCount>
-        <DraftCharCount>-4457</DraftCharCount>
+        <DraftWordCount>-686</DraftWordCount>
+        <DraftCharCount>-4375</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>

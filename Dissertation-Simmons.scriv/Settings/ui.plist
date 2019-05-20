@@ -138,7 +138,7 @@
 		<real>596</real>
 	</dict>
 	<key>mainDocumentEditor.scrollRect</key>
-	<string>{{0, 0}, {612, 716.92473118278349}}</string>
+	<string>{{0, 2.4472658073446642e-17}, {612, 716.92473118278349}}</string>
 	<key>mainDocumentEditor.selectedRanges</key>
 	<string>{0, 0}</string>
 	<key>mainDocumentEditor.textEditorState</key>
@@ -147,7 +147,7 @@
 		<real>1.75</real>
 	</dict>
 	<key>mainWindowFrame</key>
-	<string>787 36 1783 1381 0 0 2560 1417 </string>
+	<string>777 36 1783 1381 0 0 2560 1417 </string>
 	<key>previousDocumentTargetType</key>
 	<integer>0</integer>
 	<key>searchResultsTable</key>
@@ -202,7 +202,7 @@
 		<real>596</real>
 	</dict>
 	<key>supportingDocumentEditor.scrollRect</key>
-	<string>{{0, 0}, {606, 294}}</string>
+	<string>{{0, 0}, {620, 294}}</string>
 	<key>supportingDocumentEditor.selectedItemIDs</key>
 	<array/>
 	<key>supportingDocumentEditor.selectedItemUUIDs</key>
