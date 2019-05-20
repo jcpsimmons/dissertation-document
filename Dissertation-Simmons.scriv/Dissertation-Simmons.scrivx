@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="142E2BBD-2293-424F-8FB7-69DF0DE7306E" Version="2.0" Creator="SCRMAC-3.1.2-10882" Device="Joshs-iMac" Author="Josh Simmons" Modified="2019-05-10 08:19:45 -0700" ModID="D3912577-241D-47CC-8795-8E3C1E0B95E6">
+<ScrivenerProject Identifier="142E2BBD-2293-424F-8FB7-69DF0DE7306E" Version="2.0" Creator="SCRMAC-3.1.2-10882" Device="Joshs-iMac" Author="Josh Simmons" Modified="2019-05-20 10:39:34 -0700" ModID="78390E69-33DA-489A-8845-30B64AEFFB59">
     <Binder>
         <BinderItem UUID="5E4E631C-ECC6-4F62-999D-22543F6F8B43" Type="DraftFolder" Created="2019-02-25 15:20:58 -0800" Modified="2019-02-25 17:33:28 -0800">
             <Title>Dissertation Document</Title>
@@ -23,13 +23,13 @@
                         <TextSelection>18,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="3DDF9AE7-DF5E-43F7-B556-2BDB31647359" Type="Text" Created="2019-02-25 17:12:05 -0800" Modified="2019-05-06 09:56:05 -0700">
+                <BinderItem UUID="3DDF9AE7-DF5E-43F7-B556-2BDB31647359" Type="Text" Created="2019-02-25 17:12:05 -0800" Modified="2019-05-20 10:31:25 -0700">
                     <Title>Table of Contents</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>1289,0</TextSelection>
+                        <TextSelection>481,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="FBEC6A8F-B784-410C-9AB4-9E37842A9BC0" Type="Text" Created="2019-02-25 17:12:55 -0800" Modified="2019-02-25 17:12:59 -0800">
@@ -283,87 +283,31 @@
                                 </BinderItem>
                             </Children>
                         </BinderItem>
-                        <BinderItem UUID="63D8A491-B1B6-443A-898D-364D35EA376D" Type="Text" Created="2019-02-25 15:53:27 -0800" Modified="2019-05-06 09:35:56 -0700">
+                        <BinderItem UUID="63D8A491-B1B6-443A-898D-364D35EA376D" Type="Text" Created="2019-02-25 15:53:27 -0800" Modified="2019-05-20 10:39:34 -0700">
                             <Title>Music, VR, and Other Disciplines</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>0,0</TextSelection>
+                                <TextSelection>2616,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem UUID="03BC807A-0343-4B51-B217-D1526623EA90" Type="Text" Created="2019-05-06 09:35:48 -0700" Modified="2019-05-06 09:35:56 -0700">
-                                    <Title>Music, VR, and Other Disciplines</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>0,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem UUID="3EABAF77-4C06-44E6-BFD4-FE664A4D23E3" Type="Text" Created="2019-02-25 15:55:37 -0800" Modified="2019-05-06 09:40:41 -0700">
+                                <BinderItem UUID="3EABAF77-4C06-44E6-BFD4-FE664A4D23E3" Type="Text" Created="2019-02-25 15:55:37 -0800" Modified="2019-05-20 10:24:03 -0700">
                                     <Title>Dreams</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>566,0</TextSelection>
+                                        <TextSelection>2125,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="9D2D9589-0A35-406A-8E5C-379180D14E1B" Type="Text" Created="2019-02-25 15:57:02 -0800" Modified="2019-05-06 09:41:22 -0700">
-                                    <Title>Psychedelic Drugs</Title>
+                                <BinderItem UUID="1B754CC3-B183-4DCC-9FDF-8C09813E143A" Type="Text" Created="2019-02-25 16:04:21 -0800" Modified="2019-05-20 10:39:30 -0700">
+                                    <Title>Cyberpunk Culture</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>2943,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem UUID="1B754CC3-B183-4DCC-9FDF-8C09813E143A" Type="Text" Created="2019-02-25 16:04:21 -0800" Modified="2019-05-06 09:44:12 -0700">
-                                    <Title>Drug-Induced Universal Consciousness</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>1539,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem UUID="CD5A68F7-90F7-4CEC-8960-06A8F5BE89BD" Type="Text" Created="2019-02-25 16:07:01 -0800" Modified="2019-02-25 17:30:23 -0800">
-                                    <Title>Personification</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>0,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem UUID="7117C391-1BF2-425A-8D1A-B504EB609556" Type="Text" Created="2019-02-25 16:16:36 -0800" Modified="2019-05-06 09:46:40 -0700">
-                                    <Title>Full Circle, Musical Links</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>689,0</TextSelection>
-                                    </TextSettings>
-                                    <Children>
-                                        <BinderItem UUID="367F008E-AFF8-4225-A024-6DDFD390828D" Type="Text" Created="2019-05-06 09:46:29 -0700" Modified="2019-05-06 09:47:03 -0700">
-                                            <Title>Example</Title>
-                                            <MetaData>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
-                                            </MetaData>
-                                            <TextSettings>
-                                                <TextSelection>6386,0</TextSelection>
-                                            </TextSettings>
-                                        </BinderItem>
-                                    </Children>
-                                </BinderItem>
-                                <BinderItem UUID="0C254603-E23C-4663-8270-CCE6526E1515" Type="Text" Created="2019-02-25 16:57:57 -0800" Modified="2019-05-06 09:48:02 -0700">
-                                    <Title>A Brief Aside About Myth Scholarship</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>296,0</TextSelection>
+                                        <TextSelection>297,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem UUID="D9D9C82D-E27B-446D-A7AF-A20A8149C449" Type="Text" Created="2019-02-25 16:59:06 -0800" Modified="2019-05-06 09:39:04 -0700">
@@ -372,7 +316,7 @@
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>900,0</TextSelection>
+                                        <TextSelection>11,0</TextSelection>
                                     </TextSettings>
                                     <Children>
                                         <BinderItem UUID="3DA9FD72-0A13-4A36-8657-D98D88DC9EDA" Type="Text" Created="2019-02-25 17:00:45 -0800" Modified="2019-05-06 09:39:04 -0700">
@@ -381,7 +325,7 @@
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>578,0</TextSelection>
+                                                <TextSelection>0,0</TextSelection>
                                             </TextSettings>
                                             <Children>
                                                 <BinderItem UUID="0F83D178-EDC0-4C3C-AFCA-386711870768" Type="Text" Created="2019-02-25 17:01:06 -0800" Modified="2019-02-25 17:30:23 -0800">
@@ -833,6 +777,62 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
+                <BinderItem UUID="7117C391-1BF2-425A-8D1A-B504EB609556" Type="Text" Created="2019-02-25 16:16:36 -0800" Modified="2019-05-06 09:46:40 -0700">
+                    <Title>Full Circle, Musical Links</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>689,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="367F008E-AFF8-4225-A024-6DDFD390828D" Type="Text" Created="2019-05-06 09:46:29 -0700" Modified="2019-05-06 09:47:03 -0700">
+                            <Title>Example</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>6386,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="0C254603-E23C-4663-8270-CCE6526E1515" Type="Text" Created="2019-02-25 16:57:57 -0800" Modified="2019-05-06 09:48:02 -0700">
+                    <Title>A Brief Aside About Myth Scholarship</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>296,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="9D2D9589-0A35-406A-8E5C-379180D14E1B" Type="Text" Created="2019-02-25 15:57:02 -0800" Modified="2019-05-06 09:41:22 -0700">
+                    <Title>Psychedelic Drugs</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>2943,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="03BC807A-0343-4B51-B217-D1526623EA90" Type="Text" Created="2019-05-06 09:35:48 -0700" Modified="2019-05-20 10:34:39 -0700">
+                    <Title>Music, VR, and Other Disciplines</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="CD5A68F7-90F7-4CEC-8960-06A8F5BE89BD" Type="Text" Created="2019-02-25 16:07:01 -0800" Modified="2019-02-25 17:30:23 -0800">
+                    <Title>Personification</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>111,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
             </Children>
         </BinderItem>
     </Binder>
@@ -893,11 +893,11 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-07-07 04:25:49 -0700" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="-516" Characters="-3066" Date="2019-05-10 07:50:10 -0700"/>
+        <PreviousSession Words="-699" Characters="-4457" Date="2019-05-20 10:33:03 -0700"/>
     </ProjectTargets>
-    <RecentWritingHistory Date="2019-05-10 00:00:00 -0700">
-        <DraftWordCount>-516</DraftWordCount>
-        <DraftCharCount>-3066</DraftCharCount>
+    <RecentWritingHistory Date="2019-05-20 00:00:00 -0700">
+        <DraftWordCount>-699</DraftWordCount>
+        <DraftCharCount>-4457</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>

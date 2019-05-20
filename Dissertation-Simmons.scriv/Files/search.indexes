@@ -286,7 +286,7 @@ A practice I acquired from assisting Dr. Michael Dessen in his courses at UC Irv
         </Document>
         <Document ID="3EABAF77-4C06-44E6-BFD4-FE664A4D23E3">
             <Title>Dreams</Title>
-            <Text>VR may be the most centrally situated artistic discipline (Lanier 2017, 54), but it shares a special bond with many fields, in this document I will explore the connections with dreams, drugs, and science fiction. As has been already established in the Design Principles section, many figures from each of these disciplines were involved in research spanning two or more of these topics: Douglas Rushkoff (drugs, science fiction), William S. Burroughs (dreams, drugs, science fiction), and Dr. Robert Anton Wilson (dreams, drugs, science fiction), just to name a few. Delving further into the most notable research in each of these fields begins to illuminate the hidden connections between the seemingly disparate disciplines. These obscured connections are quite clear once established and provide a path towards thinking about what is at the core of postmodal design. As with much research in this area however, the easiest inroad towards this understanding is through providing examples. 
+            <Text>VR may be the most centrally situated artistic discipline (Lanier 2017, 54), but it shares a special bond with many fields, in this document I will explore the connections with dreams, drugs, and science fiction. As has been already established in the Design Principles section, many figures from each of these disciplines were involved in research spanning two or more of these topics: Douglas Rushkoff (drugs, science fiction), William S. Burroughs (dreams, drugs, science fiction), and Dr. Robert Anton Wilson (dreams, drugs, science fiction), just to name a few. This research helped to inform my dissertation work but did not make up the core of it so I will provide a brief overview of this information instead of a full treatment.
 Jaron Lanier, as a figure whose research spanned multiple disciplines serves as a good starting point. Lanier’s own writing suggests that the study of dreams is a useful influence on VR design:
 Twentieth VR Definition: Like lucid dreaming, except that (a) more than one person can take on roles in the same experience, (b) the quality is not as good, and (c) you have to work to program VR if you want to be in control, which you should want. Dreams, meanwhile, are often best if you don’t seek to control them. Even Stephen La Berge seeks to be nonlucid in most of his dreams since it is in untethered dreams that the brain surprises and renews itself. (Lanier 2017, 149)
 In order to parse out the utility of dreams in VR design, Lanier’s comparison must be dissected, and reconstructed through the lens of the artist. Points (a) and (b) are reasonable, but the artist will likely disagree with part of point (c). There is no “should” in art. Expectations of the audience can be constructed, but an audience member brings with them the totality of their experience when viewing a work of art. There are of course homogenizing factors between audience members (a concept that will be examined in great detail later), however Lanier does not make a strong case for why someone “should” want to control the VR experience. The utility of this statement is clear when considering the development goals of a team working on a AAA title VR video game. A video game such as this, is intended for mass markets, not intended to subvert any expectations, and supposed to fit most existing paradigms of VR use. Lanier was primarily working outside of these frameworks, thus his “should” remains confusingly motivated.
@@ -578,7 +578,10 @@ Problem studied, methods for data gathering, summary of finding</Text>
         </Document>
         <Document ID="3DDF9AE7-DF5E-43F7-B556-2BDB31647359">
             <Title>Table of Contents</Title>
-            <Text>List of Tables	&lt;$p&gt;
+            <Text>Title Page	&lt;$p&gt;
+Copyright Statement	&lt;$p&gt;
+Table of Contents	&lt;$p&gt;
+List of Tables	&lt;$p&gt;
 List of Figures	&lt;$p&gt;
 Acknowledgements Page	&lt;$p&gt;
 Curriculum Vitae	&lt;$p&gt;
@@ -586,57 +589,19 @@ Abstract	&lt;$p&gt;
 Dissertation Body	&lt;$p&gt;
 Introduction	&lt;$p&gt;
 The Postmodal Era	&lt;$p&gt;
-Summary	&lt;$p&gt;
-Importance for Artists	&lt;$p&gt;
-Defining Postmodal	&lt;$p&gt;
-How to Proceed	&lt;$p&gt;
-Lineage	&lt;$p&gt;
-Summary	&lt;$p&gt;
 Existing Research	&lt;$p&gt;
-Music-VR and Postmodal Art	&lt;$p&gt;
-Real Time Whenever Possible	&lt;$p&gt;
-VR Musical Instruments	&lt;$p&gt;
-Other Research	&lt;$p&gt;
-Video Games	&lt;$p&gt;
-Game Studies	&lt;$p&gt;
-Science Fiction	&lt;$p&gt;
-Lanier, VPL, and Silicon Valley Culture	&lt;$p&gt;
-Psychedelic Drugs	&lt;$p&gt;
-Design Principles for Postmodal Work	&lt;$p&gt;
-Display Ergonomics	&lt;$p&gt;
-Aesthetics	&lt;$p&gt;
-Conclusion	&lt;$p&gt;
 Music, VR, and Other Disciplines	&lt;$p&gt;
-Music, VR, and Other Disciplines	&lt;$p&gt;
-Dreams	&lt;$p&gt;
-Psychedelic Drugs	&lt;$p&gt;
-Drug-Induced Universal Consciousness	&lt;$p&gt;
-Personification	&lt;$p&gt;
-Full Circle, Musical Links	&lt;$p&gt;
-Example	&lt;$p&gt;
-A Brief Aside About Myth Scholarship	&lt;$p&gt;
-Monomyth	&lt;$p&gt;
-Monomyth: Summary	&lt;$p&gt;
 Case Studies	&lt;$p&gt;
-Showcase I	&lt;$p&gt;
-Development Pipeline	&lt;$p&gt;
-Findings	&lt;$p&gt;
-Showcase II	&lt;$p&gt;
-Development Pipeline	&lt;$p&gt;
-Simplify	&lt;$p&gt;
-Integrate Music	&lt;$p&gt;
-Emphasize Postmodality	&lt;$p&gt;
-Synthesis of Elements	&lt;$p&gt;
 Conclusions and Future Directions	&lt;$p&gt;
 Findings	&lt;$p&gt;
 Audiovisual Connections	&lt;$p&gt;
-Monomyth	&lt;$p&gt;
-Future Directions	&lt;$p&gt;
+Medium is the Message, Again	&lt;$p&gt;
+Towards Postmodality	&lt;$p&gt;
 Notes	&lt;$p&gt;
 Bibliography	&lt;$p&gt;</Text>
         </Document>
         <Document ID="1B754CC3-B183-4DCC-9FDF-8C09813E143A">
-            <Title>Drug-Induced Universal Consciousness</Title>
+            <Title>Cyberpunk Culture</Title>
             <Text>The collective unconscious, “does not derive from personal experience and is not a personal acquisition but is inborn.” (Jung and Hull 1981, 3). This is what McKenna implies with his use of the term ”Gaian mind”. This can be deduced from other mentions of concepts related to the Jungian collective unconscious, such as, “[Psychedelics] cause us to connect and reconnect the contents of the collective mind in ever more implausible, beautiful, and self-fulfilling ways .” (McKenna 1993, 130). In Food of the Gods McKenna specifically lauds some of Jung’s contributions to the research of shamanism, mentioning the collective unconscious specifically (McKenna 1993, 134). 
 Now that one can understand what McKenna implies by his use of the term Gaian mind, one can extrapolate the implications of this concept into the domains of psychedelics, VR, and music. A very clear articulation of the link between psychedelics, and VR is the cyberculture documentary Cyberia: Life in the Trenches of Hyperspace by journalist Douglas Rushkoff. Cyberia is a rare glimpse into the genesis of modern cyberculture. Written in 1993, Rushkoff immersed himself in different tech subcultures – most of these also countercultures – in order to capture a moment of incredible idealism, potentiated by the nascence of digital technology. Rushkoff poetically describes this as, “a moment when anything seemed possible. When an entire subculture — like a kid at a rave trying virtual reality for the first time -- saw the wild potentials of marrying the latest computer technologies with the most intimately held dreams and the most ancient spiritual truths. It is a moment that predates America Online, twenty million Internet subscribers, Wired magazine, Bill Clinton, and the Information Superhighway.” (Rushkoff 1994, sec. Preface). 
 Based on Rushkoff’s well-researched definition of the titular concept, Cyberia, one can easily see the similarity between this tech-inspired concept, McKenna’s drug-induced Gaia, and Jung’s collective unconscious:
@@ -715,20 +680,6 @@ Reaktion was developed by Keijiro Takahashi and is distributed freely on GitHub 
         </Document>
         <Document ID="03BC807A-0343-4B51-B217-D1526623EA90">
             <Title>Music, VR, and Other Disciplines</Title>
-            <Text>After having completed the music-based VR environment Spektra, testing it on participants, and using it in live performance, I reflected in a macrocosmic sense on the entirety of the project from the viewpoint of music composition. I wandered for some time in the VR realm, linked to music by a lengthy tether. In order to draw concrete conclusions from the work as it applies to modern music composition, I needed to create a framework of terminology and understanding that had previously existed in its components but not in its totality. This is always the charge of those that foray into VR development. VR does not have a long lineage like other artistic mediums, and it is essentially invisible technology since it can be used towards so many different practical, and wonderfully impractical ends. It seemed senseless to use the same frameworks posited by VR developers working in augmented reality surgery, or even to an extent, VR game design.
-VR is a hard topic to explain because it’s hard to contain. It directly connects to every other discipline. (Lanier 2017, 54)
-Following this argument, I conducted more research in order to forge a template for understanding, for containing a small subgenre of VR within a malleable net of definitions, and thus creating more music-based VR. This research was interesting, but ultimately not fulfilling as it related to music. Due to the music-centric nature of my approach, VR served merely as a vessel, my Kon-Tiki, that ferried me to the opposite shores of greater musical understanding. My journey as researcher paralleled Joseph Campbell’s hero’s journey: call to adventure (beginning the PhD program), night-sea journey (VR as vessel, research related musical performances), father atonement (linking my discovery with previous researchers in the field), return (putting this experience into words and concepts), and elixir (the dissertation document). This relation was interesting because of the significance I will detail later of Campbell’s monomyth as it relates to music.
-The question I was seeking to answer on my night-sea journey was posed eloquently by Pierre Schaeffer in his preface to Michael Chion’s Guide to Sound Objects:
-But perhaps, on the other hand, you will come across something unexplained, surprising. Indeed, is not musical meaning, to which I am constantly referring without being able to define it, like other questions in life to which we do not know the answer? After all, does life have a meaning? Who can define it? Is there consensus about it? 
-And even if we limit ourselves to music — to Music even — can these questions be answered? What is music? What is its function? (or functions). Is it universal, singular, plural? Are musical works objects, in the sense of a product, or means of communication amongst human beings, or more than that, a glimpse beyond, into that which we call, for example, the spiritual? 
-Now, without replying to such questions, since the sphinx itself gives up, we can accept or not accept that they are asked, that they prevail, somewhere, in the individual or collective unconscious. In short, in Music as well, we could distinguish, not atheists and believers, but those who believe in the here and now and those who believe in the beyond of music.
-With the result that across this whole debate there is a subtext (or a misunderstanding) which it would be good to clarify once and for all. Yes, for my part, I believe that music is more than music, that it is not a run of the mill, utilitarian or aesthetic object, but a spiritual undertaking, or as an old Master used to say, a “beingful exercise”, an activity of the whole being. So I cannot deny that, sometimes, in the course of the most trivial musical theory, the most apparently technical experiment, the thesis of the spiritual reappeared, the intention of a going beyond which is difficult to name, but even more impossible to deny. (Chion 1983, 3–4)
-Since Schaeffer’s writing there has been little academic investigation into areas that might illuminate the answer to some or all of his questions. The conclusion of Schaeffer’s work is yet to be discovered, “…a treatise, not on musical objects, but on the musical work!”  (Chion 1983, 3). I am yet unable to offer a treatise on the musical work, but the structural analysis I have conducted on the research of others, as well as my own has largely been done where most academics have so far shamefully deigned to look — in those disciplines deemed loosely related to music, unacademic, fringe, etc. These disciplines included the study of myth, the Jungian concepts of the collective unconscious and dream interpretation, and psychedelic drugs. Within these disciplines is precisely where Schaeffer’s treasure is to be found. What follows then, in this section is a map of the territory as I understand it, balancing between adherence to a common thread of music, and the creative proclivity, and necessity to wander. 
-The four interrelated starting points for this research will be presented first. I will explain their interrelatedness to each other. While establishing the interrelatedness of these initial disciplines, I will provide information on how these topics are synthesized into story. Finally, I will detail the conclusions reached in the course of this research, generalize the emergent approach, and present impetus for moving forward with this more story-centric approach to music making. In order to retain the common thread of music throughout, musical examples from the compositions of others, as well as my own will be given as examples for concepts being detailed. If one is to consider the totality of the framework that I have constructed as a geometrical form, each topic will serve to form a mold, or impression of part of the overall framework’s surface. It is interesting to note that the information must be unfolded in this vignetted manner despite the fact that all component topics suggest story, in a linear sense, to be the connecting feature.
-</Text>
-            <Comments>One should note however that there are varying levels of severity to this exclusion. VR game design provided some interested concepts, and even basic terminology for working with music-based VR, however it proved to be a pursuit more akin to shoehorning than science to force this genre of work into another genre if it was not a perfect fit. 
-Emphasis, mine.
-I have chosen four starting points that made sense for my own work, and seem as though they could be useful for the work of others beginning to explore this medium. It’s useful to remember that “the map is not the territory” and that Lanier himself defines the VR field as amoebic. These were my own “jumping off” points but other researchers may choose others.</Comments>
         </Document>
         <Document ID="9CA8653C-5281-4D5C-8DBD-F702A916B5DF">
             <Title>Introduction</Title>
@@ -1368,6 +1319,12 @@ A key point. Many data streams meet the first two criteria but will not provide 
         </Document>
         <Document ID="63D8A491-B1B6-443A-898D-364D35EA376D">
             <Title>Music, VR, and Other Disciplines</Title>
+            <Text>After having completed the music-based VR environment Spektra, testing it on participants, and using it in live performance, I reflected in a macrocosmic sense on the entirety of the project from the viewpoint of music composition. I wandered for some time in the VR realm, linked to music by a lengthy tether. In order to draw concrete conclusions from the work as it applies to modern music composition, I needed to create a framework of terminology and understanding that had previously existed in its components but not in its totality. This is always the charge of those that foray into VR development. VR does not have a long lineage like other artistic mediums, and it is essentially invisible technology since it can be used towards so many different practical, and wonderfully impractical ends. It seemed senseless to use the same frameworks posited by VR developers working in augmented reality surgery, or even to an extent, VR game design.
+VR is a hard topic to explain because it’s hard to contain. It directly connects to every other discipline. (Lanier 2017, 54)
+Following this argument, I conducted more research in order to forge a template for understanding, for containing a small subgenre of VR within a malleable net of definitions, and thus creating more music-based VR. The areas I researched in this pursuit included dreams, psychedelic drugs, et al. Notable figures in VR research such as Lanier suggest that these seemingly disparate disciplines might be intimately linked to VR:
+Twentieth VR Definition: Like lucid dreaming, except that (a) more than one person can take on roles in the same experience, (b) the quality is not as good, and (c) you have to work to program VR if you want to be in control, which you should want. Dreams, meanwhile, are often best if you don’t seek to control them. Even Stephen La Berge seeks to be nonlucid in most of his dreams since it is in untethered dreams that the brain surprises and renews itself. (Lanier 2017, 149) 
+While this research informed my dissertation work it was not central to the findings discussed in this dissertation so I will not give it a full treatment here — instead I will briefly highlight formal and stylistic influences in research on dreams and the “cyberpunk” subculture. These two disciplines encapsulate findings present in many other related disciplines that I researched for my own work, and thus will provide a summarized view of this broader research. The distillation of many findings in these disciplines seem to mirror the concept of Joseph Campbell's monomyth which will be discussed at the end of this section.</Text>
+            <Comments>One should note however that there are varying levels of severity to this exclusion. VR game design provided some interested concepts, and even basic terminology for working with music-based VR, however it proved to be a pursuit more akin to shoehorning than science to force this genre of work into another genre if it was not a perfect fit. </Comments>
         </Document>
         <Document ID="3DA9FD72-0A13-4A36-8657-D98D88DC9EDA">
             <Title>Monomyth: Summary</Title>

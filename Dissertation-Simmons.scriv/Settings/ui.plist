@@ -20,7 +20,7 @@
 	<key>SuppressBookmarksFolderCheck</key>
 	<false/>
 	<key>ToCIndent</key>
-	<real>36</real>
+	<real>20</real>
 	<key>ToCRightMargin</key>
 	<real>468.00002671768084</real>
 	<key>ToCUsePageWidth</key>
@@ -31,7 +31,8 @@
 	</array>
 	<key>binderSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {512, 1349}}</string>
+		<string>{{0, 0}, {533, 1359}}</string>
+		<string>{{534, 0}, {1249, 1359}}</string>
 	</array>
 	<key>binderState</key>
 	<array>
@@ -137,7 +138,7 @@
 		<real>596</real>
 	</dict>
 	<key>mainDocumentEditor.scrollRect</key>
-	<string>{{0, 0}, {612, 718.857142857143}}</string>
+	<string>{{0, 0}, {612, 716.92473118278349}}</string>
 	<key>mainDocumentEditor.selectedRanges</key>
 	<string>{0, 0}</string>
 	<key>mainDocumentEditor.textEditorState</key>
@@ -146,7 +147,7 @@
 		<real>1.75</real>
 	</dict>
 	<key>mainWindowFrame</key>
-	<string>1311 36 1249 1381 0 0 2560 1417 </string>
+	<string>787 36 1783 1381 0 0 2560 1417 </string>
 	<key>previousDocumentTargetType</key>
 	<integer>0</integer>
 	<key>searchResultsTable</key>
@@ -201,7 +202,7 @@
 		<real>596</real>
 	</dict>
 	<key>supportingDocumentEditor.scrollRect</key>
-	<string>{{0, 0}, {620, 294}}</string>
+	<string>{{0, 0}, {606, 294}}</string>
 	<key>supportingDocumentEditor.selectedItemIDs</key>
 	<array/>
 	<key>supportingDocumentEditor.selectedItemUUIDs</key>
